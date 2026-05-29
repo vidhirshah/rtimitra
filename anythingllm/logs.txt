@@ -1,0 +1,7 @@
+Create Thread Module
+200
+Thread created
+{'id': 179, 'name': 'q', 'slug': 'q', 'workspace_id': 13}
+Query Thread Module
+200
+What is AnythingLLM? - There is no relevant information in this workspace to answer your query.
